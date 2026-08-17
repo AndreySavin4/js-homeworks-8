@@ -32,6 +32,19 @@ scale: 1.05;
 scale: 1;
 }
 
+.timer{
+  display: flex;
+  gap: 80px;
+}
+
+.timer .value{
+  font-size: 25px;
+}
+
+.timer .label{
+  font-size: 25px;
+}
+
 img {
   display: block;
   max-width: 100%;
